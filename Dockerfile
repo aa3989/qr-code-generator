@@ -19,4 +19,4 @@ USER myuser
 
 # Use ENTRYPOINT and CMD to allow flexibility when running the container
 ENTRYPOINT ["python", "main.py"]
-CMD ["--url", "http://github.com/kaw393939"]
+CMD ["--url", "https://github.com/aa3989/qr-code-generator"]
